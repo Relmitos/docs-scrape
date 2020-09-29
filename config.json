@@ -1,7 +1,7 @@
 {
     "index_name": "docs",
     "start_urls": [
-        "https://chevere.org/"
+        "https://v3-docs.chevereto.com/"
     ],
     "stop_urls": [],
     "selectors": {
@@ -22,7 +22,7 @@
             "global": true
         }
     },
-    "scrape_start_urls": false,
+    "scrape_start_urls": true,
     "strip_chars": " .,;:#",
     "custom_settings": {
         "attributesForFaceting": [
