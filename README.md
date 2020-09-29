@@ -1,6 +1,6 @@
 # docs-scrape
 
-This is a GitHub [workflow](.github/workflows/scrape.yml) repository for running the [Algolia scraper](https://docsearch.algolia.com/docs/run-your-own/) with Docker image `algolia/docsearch-scraper`.
+This is a GitHub [workflow](.github/workflows/scrape.yml) repository for running the [Algolia scraper](https://docsearch.algolia.com/docs/run-your-own/) with Docker image `algolia/docsearch-scraper` for VuePress based websites.
 
 ## Instructions
 
