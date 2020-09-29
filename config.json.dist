@@ -1,5 +1,5 @@
 {
-    "index_name": "vuepress",
+    "index_name": "docs-scrape",
     "start_urls": [
         ""
     ],
