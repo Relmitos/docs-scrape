@@ -8,7 +8,7 @@ The config file [config.json](config.json) follows [VuePress config](https://git
 
 ## Instructions
 
-## Config
+### Config
 
 Copy `config.json.dist` to `config.json` and edit it to fit your needs.
 

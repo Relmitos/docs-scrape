@@ -1,7 +1,7 @@
 {
     "index_name": "vuepress",
     "start_urls": [
-        ""
+        "https://chevere.org/"
     ],
     "stop_urls": [],
     "selectors": {
