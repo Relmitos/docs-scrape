@@ -21,7 +21,7 @@ Go to **API Keys** under your Algolia project. Then create the following secrets
 - `APPLICATION_ID` with the value from **Application ID**
 - `API_KEY` with the value from **Admin API Key**
 
-### Push scrapper
+### Push scraper
 
 Add the following workflow in the **origin repo** where the VuePress website gets built. This will push the scrape workflow in your cloned `docs-scrape` repo.
 
