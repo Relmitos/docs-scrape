@@ -1,10 +1,14 @@
 {
-  "index_name": "scrape-test",
-  "start_urls": ["https://glebbahmutov.com/triple-tested/"],
+  "index_name": "vuepress",
+  "start_urls": [
+    ""
+  ],
+  "stop_urls": [],
   "selectors": {
     "lvl0": {
-      "selector": ".site-name",
-      "global": true
+      "selector": "p.sidebar-heading.open",
+      "global": true,
+      "default_value": "Documentation"
     },
     "lvl1": ".content__default h1",
     "lvl2": ".content__default h2",
@@ -18,9 +22,11 @@
       "global": true
     }
   },
+  "scrape_start_urls": false,
+  "strip_chars": " .,;:#",
   "custom_settings": {
     "attributesForFaceting": [
       "lang"
     ]
-  }
+  },
 }
